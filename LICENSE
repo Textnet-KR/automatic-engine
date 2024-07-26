@@ -1,0 +1,55 @@
+TEXTNET Proprietary License for Markdown Table Converter
+
+Copyright (c) 2024 TEXTNET
+
+1. Definitions
+   "Software" refers to the Markdown Table Converter program, including all source code, documentation, and associated files, specifically designed to convert markdown tables in Excel files to HTML tables.
+   "TEXTNET" refers to the company or organization that owns and maintains the Software.
+   "User" refers to any individual or entity that uses or accesses the Software.
+
+2. Ownership and Rights
+   The Software, including but not limited to the Markdown Table Converter class, main execution script, and all associated testing scripts, is the exclusive property of TEXTNET. All rights, title, and interest in and to the Software, including all intellectual property rights, are and shall remain with TEXTNET.
+
+3. Grant of License
+   TEXTNET hereby grants User a non-exclusive, non-transferable, revocable license to use the Software solely for research and non-commercial purposes, subject to the terms and conditions of this License.
+
+4. Permitted Uses
+   User may:
+   a) Use the Software to convert markdown tables to HTML tables for academic research purposes.
+   b) Use the Software for personal, non-commercial projects involving markdown to HTML table conversion.
+   c) Modify the Software for personal use, provided that such modifications are clearly marked and not distributed.
+
+5. Restrictions
+   User may not:
+   a) Use the Software for any commercial purpose, including but not limited to integrating it into commercial products or services.
+   b) Sell, rent, lease, sublicense, distribute, or otherwise transfer rights to the Software.
+   c) Remove or alter any proprietary notices or marks on the Software.
+   d) Use the Software in any way that violates any applicable local, state, national, or international law or regulation.
+
+6. No Redistribution
+   Redistribution of the Software or any derivative works, including the main converter class, execution scripts, or testing modules, is strictly prohibited without explicit written permission from TEXTNET.
+
+7. Modifications
+   Any modifications made to the Software, including changes to the conversion algorithms, input/output handling, or testing procedures, must be clearly marked as such and must not be misrepresented as the original Software. User agrees not to distribute such modifications without explicit written permission from TEXTNET.
+
+8. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+9. Limitation of Liability
+   IN NO EVENT SHALL TEXTNET BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+10. Termination
+    This License is effective until terminated. TEXTNET may terminate this License at any time if User breaches any of its terms and conditions. Upon termination, User must cease all use of the Software and destroy all copies.
+
+11. Governing Law
+    This License shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law provisions.
+
+12. Entire Agreement
+    This License constitutes the entire agreement between the parties with respect to the use of the Markdown Table Converter Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+For any inquiries regarding commercial licensing or permissions beyond the scope of this License, please contact TEXTNET at:
+
+[TEXTNET Contact Information]
+sungyub@textnet.kr
+
+By using the Software, User acknowledges that they have read this License, understand it, and agree to be bound by its terms and conditions.
