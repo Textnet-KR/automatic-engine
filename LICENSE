@@ -1,55 +1,55 @@
-TEXTNET Proprietary License for Markdown Table Converter
+TEXTNET Markdown Table Converter 라이선스 계약
 
 Copyright (c) 2024 TEXTNET
 
-1. Definitions
-   "Software" refers to the Markdown Table Converter program, including all source code, documentation, and associated files, specifically designed to convert markdown tables in Excel files to HTML tables.
-   "TEXTNET" refers to the company or organization that owns and maintains the Software.
-   "User" refers to any individual or entity that uses or accesses the Software.
+1. 정의
+   "소프트웨어"란 Markdown Table Converter 프로그램을 지칭하며, 엑셀 파일의 마크다운 테이블을 HTML 테이블로 변환하기 위해 특별히 설계된 모든 소스코드, 문서, 관련 파일을 포함합니다.
+   "라이선스 제공자"란 본 소프트웨어의 저작권을 보유한 TEXTNET을 의미합니다.
+   "라이선스 사용자"란 본 소프트웨어를 사용하거나 접근하는 모든 개인 또는 단체를 뜻합니다.
 
-2. Ownership and Rights
-   The Software, including but not limited to the Markdown Table Converter class, main execution script, and all associated testing scripts, is the exclusive property of TEXTNET. All rights, title, and interest in and to the Software, including all intellectual property rights, are and shall remain with TEXTNET.
+2. 지식재산권
+   본 소프트웨어(Markdown Table Converter 클래스, 메인 실행 스크립트, GUI 애플리케이션, 모든 관련 테스트 스크립트를 포함하되 이에 국한되지 않음)에 대한 모든 지식재산권은 라이선스 제공자에게 귀속됩니다.
 
-3. Grant of License
-   TEXTNET hereby grants User a non-exclusive, non-transferable, revocable license to use the Software solely for research and non-commercial purposes, subject to the terms and conditions of this License.
+3. 라이선스 허가
+   라이선스 제공자는 라이선스 사용자에게 본 계약의 조건에 따라 연구 및 비상업적 목적으로만 소프트웨어를 사용할 수 있는 비독점적, 양도 불가능, 취소 가능한 라이선스를 허가합니다.
 
-4. Permitted Uses
-   User may:
-   a) Use the Software to convert markdown tables to HTML tables for academic research purposes.
-   b) Use the Software for personal, non-commercial projects involving markdown to HTML table conversion.
-   c) Modify the Software for personal use, provided that such modifications are clearly marked and not distributed.
+4. 허용된 사용
+   라이선스 사용자는 다음과 같은 행위를 할 수 있습니다:
+   a) 학술 연구 목적으로 소프트웨어를 사용하여 마크다운 테이블을 HTML 테이블로 변환하는 행위
+   b) 마크다운을 HTML 테이블로 변환하는 개인적, 비상업적 프로젝트에 소프트웨어를 사용하는 행위
+   c) 개인 사용을 위해 소프트웨어를 수정하는 행위. 단, 이러한 수정 사항은 명확히 표시되어야 하며 배포해서는 안 됩니다.
 
-5. Restrictions
-   User may not:
-   a) Use the Software for any commercial purpose, including but not limited to integrating it into commercial products or services.
-   b) Sell, rent, lease, sublicense, distribute, or otherwise transfer rights to the Software.
-   c) Remove or alter any proprietary notices or marks on the Software.
-   d) Use the Software in any way that violates any applicable local, state, national, or international law or regulation.
+5. 제한 사항
+   라이선스 사용자는 다음과 같은 행위를 해서는 안 됩니다:
+   a) 상용 제품이나 서비스에 통합하는 것을 포함하여 소프트웨어를 상업적 목적으로 사용하는 행위
+   b) 소프트웨어에 대한 권리를 판매, 임대, 대여, 서브라이선스, 배포 또는 기타 방식으로 이전하는 행위
+   c) 소프트웨어의 저작권 표시 또는 기타 권리 고지를 제거하거나 변경하는 행위
+   d) 관련 법령을 위반하는 방식으로 소프트웨어를 사용하는 행위
 
-6. No Redistribution
-   Redistribution of the Software or any derivative works, including the main converter class, execution scripts, or testing modules, is strictly prohibited without explicit written permission from TEXTNET.
+6. 배포 금지
+   라이선스 제공자의 명시적인 서면 허가 없이 소프트웨어 또는 파생 저작물(주 변환기 클래스, 실행 스크립트, GUI 애플리케이션, 테스트 모듈 포함)을 배포하는 것은 엄격히 금지됩니다.
 
-7. Modifications
-   Any modifications made to the Software, including changes to the conversion algorithms, input/output handling, or testing procedures, must be clearly marked as such and must not be misrepresented as the original Software. User agrees not to distribute such modifications without explicit written permission from TEXTNET.
+7. 수정
+   소프트웨어에 대한 모든 수정(변환 알고리즘, 입출력 처리, GUI 기능 또는 테스트 절차의 변경 포함)은 명확히 표시되어야 하며 원본 소프트웨어로 오인되어서는 안 됩니다. 라이선스 사용자는 라이선스 제공자의 명시적인 서면 허가 없이 이러한 수정 사항을 배포하지 않을 것에 동의합니다.
 
-8. No Warranty
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+8. 보증의 부인
+   본 소프트웨어는 "있는 그대로" 제공되며, 상품성, 특정 목적에의 적합성 및 비침해성에 대한 보증을 포함하여(이에 국한되지 않음) 어떠한 종류의 명시적 또는 묵시적 보증도 제공되지 않습니다.
 
-9. Limitation of Liability
-   IN NO EVENT SHALL TEXTNET BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+9. 책임의 제한
+   라이선스 제공자는 계약상 책임, 불법행위 책임 등과 관계없이 소프트웨어의 사용 또는 기타 취급으로 인해 발생하는 모든 청구, 손해 또는 기타 책임에 대해 어떠한 책임도 지지 않습니다.
 
-10. Termination
-    This License is effective until terminated. TEXTNET may terminate this License at any time if User breaches any of its terms and conditions. Upon termination, User must cease all use of the Software and destroy all copies.
+10. 계약 해지
+    본 라이선스 계약은 해지될 때까지 유효합니다. 라이선스 사용자가 본 계약의 조건을 위반하면 라이선스 제공자는 언제든지 이 계약을 해지할 수 있습니다. 해지 시 라이선스 사용자는 소프트웨어의 모든 사용을 중단하고 모든 사본을 파기해야 합니다.
 
-11. Governing Law
-    This License shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law provisions.
+11. 준거법
+    본 계약은 대한민국 법률에 따라 규율되고 해석되며, 법률 조항의 충돌에 관계없이 적용됩니다.
 
-12. Entire Agreement
-    This License constitutes the entire agreement between the parties with respect to the use of the Markdown Table Converter Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+12. 완전 합의
+    본 계약은 Markdown Table Converter 소프트웨어의 사용과 관련하여 당사자 간의 완전한 합의를 구성하며, 해당 주제와 관련된 모든 이전 또는 동시 합의를 대체합니다.
 
-For any inquiries regarding commercial licensing or permissions beyond the scope of this License, please contact TEXTNET at:
+본 라이선스의 범위를 벗어나는 상업적 라이선스 또는 허가에 대한 문의는 다음 연락처로 문의해 주시기 바랍니다:
 
-[TEXTNET Contact Information]
-developers@textnet.kr
+TEXTNET 개발팀
+이메일: developers@textnet.kr
 
-By using the Software, User acknowledges that they have read this License, understand it, and agree to be bound by its terms and conditions.
+소프트웨어를 사용함으로써 라이선스 사용자는 본 계약을 읽고 이해했으며 그 조건에 동의함을 인정하는 것으로 간주됩니다.
