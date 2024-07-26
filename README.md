@@ -22,7 +22,8 @@ pip install pandas openpyxl markdown numpy
 python main.py input.xlsx output.xlsx    
 여기서 `input.xlsx`는 변환할 마크다운 테이블이 포함된 입력 파일이고, `output.xlsx`는 결과가 저장될 출력 파일입니다.
 
-2. 스크립트는 입력 파일을 처리하고 결과를 출력 파일에 저장합니다.
+2. 스크립트는 입력 파일을 처리하고 결과를 출력 파일에 저장합니다.    
+현재는 첫 번째 열의 데이터들만 처리합니다.
 
 3. 로그 파일 `converter.log`가 생성되며, 여기에 실행 과정의 세부 정보가 기록됩니다.
 
